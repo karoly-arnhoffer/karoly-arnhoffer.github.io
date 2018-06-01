@@ -2,4 +2,4 @@
 
 This is a  simple test.
 
-![Beastie]({{"/_images/Bsd_daemon.jpg" | absolute_url }})
+![Beastie]({{"/assets/Bsd_daemon.jpg" | absolute_url }})
