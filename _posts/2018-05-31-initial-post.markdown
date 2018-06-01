@@ -13,3 +13,7 @@ This is a  simple test.
 
 ## Image
 ![Beastie]({{"/assets/Bsd_daemon.jpg" | absolute_url }})
+
+## draw.io
+
+![Activity]({{"/assets/Untitled Diagram.png" | absolute_url }})
