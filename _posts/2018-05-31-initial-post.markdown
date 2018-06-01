@@ -17,3 +17,5 @@ This is a  simple test.
 ## draw.io
 
 ![Activity]({{"/assets/Untitled Diagram.png" | absolute_url }})
+
+<a href="https://www.draw.io/?title=schema.png&amp;url=https%3A%2F%2Fgithub.com%2Fkaroly-arnhoffer%2Fkaroly-arnhoffer.github.io%2Fblob%2Fmaster%2Fassets%2FUntitled%2520Diagram.png%3Ft%3D0" rel="nofollow">Click here</a>
