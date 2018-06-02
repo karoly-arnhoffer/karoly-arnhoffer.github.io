@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hello
+tags: hello jekyll
+---
+
 # Hello
 
 This is a  simple test.
